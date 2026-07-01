@@ -10,7 +10,8 @@ hiwonder jetARM study
 <br>![pic](pic/02/02.png)<br>
 <br>
 ## 03 絕對定位
-[簡單手臂的逆運動學](src/03/簡單手臂的逆運動學2.pdf)<br>
+src/03/簡單手臂的逆運動學2.pdf<br>
+顧好腕的位置<br>
 <br>![pic](pic/03/d2.png)<br>
 <br>![pic](pic/03/a8.PNG)<br>
 <br>
