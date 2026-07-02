@@ -1,5 +1,6 @@
 # jetARM
-hiwonder jetARM study
+hiwonder jetARM study  
+參考一招由天而降的掌法, 由天而降的抓法  
 # In progress
 ## 01 check shift of camera and claw
 [ex01](src/01/ex01.md)<br>
