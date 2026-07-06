@@ -1,6 +1,8 @@
 # jetARM
 hiwonder jetARM study  
-參考一招由天而降的掌法, 由天而降的抓法  
+#警告:程式可能導致撞機的風險,使用時,手要放在電源開關上,異常時即時斷電  
+#無法承擔風險的人請跳離  
+參考一招由天而降的掌法, 悟出由天而降的爪法, 避開了視角計算難題    
 # In progress
 ## 01 check shift of camera and claw
 [ex01](src/01/ex01.md)<br>
