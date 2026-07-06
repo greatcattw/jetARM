@@ -4,18 +4,22 @@ hiwonder jetARM study
 # 無法承擔風險的人請跳離  
 參考一招由天而降的掌法, 悟出由天而降的爪法, 避開了視角計算難題    
 # In progress
-## 01 check shift of camera and claw
+## 01 check shift of camera and claw, 10mm 47mm
 [ex01](src/01/ex01.md)<br>
 <br>![pic](pic/01/01_func.png)<br>
 <br>
-## 02 check shift of camera and claw
-這次沒用到  
+## 02 check shift of camera and claw, 20mm
+目前沒用到,  
 [ex02](src/02/02.md)<br>
 <br>![pic](pic/02/02.png)<br>
 <br>
-## 03 絕對定位
+## 03 絕對定位 數學基礎
 src/03/簡單手臂的逆運動學2.pdf<br>
 顧好腕的位置<br>
 <br>![pic](pic/03/d2.png)<br>
 <br>![pic](pic/03/a8.PNG)<br>
 <br>
+## 04 用命令行參數,操作手臂移動
+[ex02](src/02/02.md)<br>
+## 05 抓取有April tag的木塊
+[ex02](src/02/02.md)<br>
