@@ -35,8 +35,8 @@ src/03/簡單手臂的逆運動學2.pdf<br>
 2 爪子抓木塊<br>
 [ex05](src/05/05.md)<br>
 ## 06 AI整理程式pub6.py - > pub6a.py
-用 math.atan2() 取代 math.atan(y / x)，避免除以 0<br>
-project/ <br>
+1. 用 math.atan2() 取代 math.atan(y / x)，避免除以 0<br>
+2. pub6.py拆成三個.py <br>
 ├── sub6a.py <br>
 ├── servo_utils.py <br>
 └── params.py <br>
