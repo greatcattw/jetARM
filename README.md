@@ -2,7 +2,7 @@
 hiwonder jetARM study  
 # 警告:程式可能導致手臂撞機的風險, 無法承擔風險的人請跳離
 # 警告:程式可能導致手臂撞機的風險,使用時,手要放在電源開關上,異常時即時斷電  
-# In progress
+### Completed on July 13, 2026
 參考一招由天而降的掌法, 悟出由天而降的爪法, 避開了視角計算難題 <br>
 ## 01 check shift of camera and claw, 10mm 47mm
 [ex01](src/01/ex01.md)<br>
