@@ -43,4 +43,4 @@ src/03/簡單手臂的逆運動學2.pdf<br>
 └── params.py <br>
 ## 07 影像中心與爪子的偏差
 影像中心的xy移動<br>
-![pic](pic/07/a1.PNG)<br>
+![pic](pic/07/a2.PNG)<br>
