@@ -28,19 +28,6 @@ src/03/簡單手臂的逆運動學2.pdf<br>
 舵機1,2,3,4,5,10操作<br>
 爪子動作<br>
 [ex04](src/04/04.md)<br>
-## 05 抓取有April tag的木塊  
-![pic](pic/05/1.png)<br>
-分為2個步驟,調好參數再用AI融成一支程式<br>
-1 鏡頭中心對準木塊中心<br>
-2 爪子抓木塊<br>
-[ex05](src/05/05.md)<br>
-
-## 06 AI整理程式pub6.py - > pub6a.py
-1. 用 math.atan2() 取代 math.atan(y / x)，避免除以 0<br>
-2. pub6.py拆成三個.py <br>
-├── sub6a.py <br>
-├── servo_utils.py <br>
-└── params.py <br>
 ## 07 影像中心與爪子的偏差
 影像中心的xy移動<br>
 ![pic](pic/07/a2.PNG)<br>
