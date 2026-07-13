@@ -34,9 +34,13 @@ src/03/簡單手臂的逆運動學2.pdf<br>
 1 鏡頭中心對準木塊中心<br>
 2 爪子抓木塊<br>
 [ex05](src/05/05.md)<br>
+
 ## 06 AI整理程式pub6.py - > pub6a.py
 1. 用 math.atan2() 取代 math.atan(y / x)，避免除以 0<br>
 2. pub6.py拆成三個.py <br>
 ├── sub6a.py <br>
 ├── servo_utils.py <br>
 └── params.py <br>
+## 07 影像中心與爪子的偏差
+影像中心的xy移動<br>
+![pic](pic/07/a1.PNG)<br>
