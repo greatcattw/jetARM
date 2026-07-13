@@ -32,3 +32,9 @@ src/03/簡單手臂的逆運動學2.pdf<br>
 影像中心的xy移動<br>
 ![pic](pic/07/a2.PNG)<br>
 [ex07](src/07/07.md)<br>
+
+## 08 所見即所抓
+[ex07](src/08/08.md)<br>
+影片<br>
+[[Video_1]](https://youtu.be/APcyvWT0qjw?si=O4LNO-aMqFW1GLS9)
+<br><br>
