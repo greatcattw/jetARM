@@ -43,5 +43,5 @@ src/03/簡單手臂的逆運動學2.pdf<br>
 [ex08](src/08/08.md)<br>
 ![pic](pic/09/01.jpg)<br>
 影片<br>
-[[Video_1]](https://youtu.be/APcyvWT0qjw?si=O4LNO-aMqFW1GLS9)
+[[Video_1]](https://youtu.be/oylX-ZPG6js)
 <br><br>
