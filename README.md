@@ -34,7 +34,7 @@ src/03/簡單手臂的逆運動學2.pdf<br>
 [ex07](src/07/07.md)<br>
 
 ## 08 所見即所抓 April tag cube
-[ex08](src/08/08.md)<br>
+[ex09](src/09/09.md)<br>
 影片<br>
 [[Video_1]](https://youtu.be/oylX-ZPG6js)
 <br><br>
