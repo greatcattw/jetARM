@@ -36,19 +36,19 @@ src/03/簡單手臂的逆運動學2.pdf<br>
 ## 08 所見即所抓 April tag cube
 [ex08](src/08/08.md)<br>
 影片<br>
-[[Video_1]](https://youtu.be/oylX-ZPG6js)
+[[Video_8]](https://youtu.be/oylX-ZPG6js)
 <br><br>
 
 ## 09 抓罐子
 [ex09](src/09/09.md)<br>
 ![pic](pic/09/01.jpg)<br>
 影片<br>
-[[Video_1]](https://youtu.be/oylX-ZPG6js)
+[[Video_9]](https://youtu.be/oylX-ZPG6js)
 <br><br>
 
 ## 10 jetAuto抓april tag
 [ex10](src/10/10.md)<br>
 ![pic](pic/10/01.jpg)<br>
 影片<br>
-[[Video_1]](https://youtu.be/MobkZ06IiBo)
+[[Video_10]](https://youtu.be/MobkZ06IiBo)
 <br><br>
